@@ -1,0 +1,33 @@
+div{
+    background-color: aqua;
+    width: 200px;
+    height: 200px;
+
+    border-style: groove;
+    border-width: 15px;
+    border-color: aquamarine;
+    outline: dashed 5px blanchedalmond;
+    border-radius: 150px;
+}
+.ayaz{
+    height: 400px;
+    width: 400px;
+    background-image: url(border1.png);
+    border-radius: 155px 155px;
+    background-size: cover;
+    border: solid 5px #333;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+.murad{
+    height: 300px;
+    width: 300px;
+    background-image: url(border2.png);
+    border-radius: 50%;
+    background-size: cover;
+    border: solid 5px rebeccapurple;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
